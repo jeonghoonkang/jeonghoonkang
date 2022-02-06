@@ -9,7 +9,7 @@
   - { work :
     - software : [TinyOS, network, operating system, IoT, Big data, Ubuntu... ]
     - mach : [iMac, MBP, Logitech, ...] 
-    - happy with : [github, vs-code, vim, python, docker, db, ...]
+    - happy with : [RaspberryPi, github, vs-code, vim, python, docker, db, Tesla, Hue, ...]
   - }  
   
 <!--
