@@ -2,9 +2,9 @@
 - If you like some of the below ~, Just send me a msg !
   - { likelist :
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim ...]
-    - movie : [Love Letter, One Day, Brazil, Star Wars, 500 days ~, Paris can wait, Little Romance   ...]
-    - friend : [Charlie Brown, Sally, Snoopy, 
-    - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, ...]
+    - movie & series : [Love Letter, One Day, Brazil, Star Wars, 500 days ~, Paris can wait, Little Romance, Wonder Years ...]
+    - friend : [Charlie Brown, Sally, Snoopy, 3PO, R2D2, ...]
+    - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli ...]
   - }
   - { work :
     - software : [TinyOS, network, operating system, IoT, Big data, Ubuntu... ]
