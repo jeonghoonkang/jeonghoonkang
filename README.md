@@ -7,7 +7,7 @@
     - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli, ...]
   - }
   - { work :
-    - software : [TinyOS, network, operating system, IoT, Big data, ... ]
+    - software : [TinyOS, network, operating system, IoT, Big data, Analytics, Machine Learning, ... ]
     - mach : [iMac, MBP, Logitech, ...] 
     - happy with : [RaspberryPi, github, vs-code, vim, python, docker, db, Tesla, Hue, Ubuntu, Coupang, iPhone, Bose, ...]
   - }  
