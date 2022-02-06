@@ -1,7 +1,7 @@
 ### Welcome to the next tier of computing 👋
-- If you like some of these below ~, Just send me a msg !
+- If you like some of the below ~, Just send me a msg !
   - { likelist :
-    - music : [Pink Floyd, Yoon Sang, Sugar Babe, ...]
+    - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele ...]
     - movie : [Love Letter, One Day, Brazil, Star Wars, ...]
     - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, ...]
   - }
