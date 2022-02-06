@@ -2,7 +2,7 @@
 - If you like some of the below ~, Just send me a msg !
   - { likelist :
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim ...]
-    - movie : [Love Letter, One Day, Brazil, Star Wars, ...]
+    - movie : [Love Letter, One Day, Brazil, Star Wars, 500 days ~, Paris can wait, Little Romance   ...]
     - friend : [Charlie Brown, Sally, Snoopy, 
     - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, ...]
   - }
