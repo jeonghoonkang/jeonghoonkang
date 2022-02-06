@@ -1,5 +1,9 @@
 ### Welcome to the next tier of computing 👋
-- If you like Pink Floyd, Yoon Sang, Sugar Babe.... Just send msg !
+- If you like some of these below ~, Just send me a msg !
+  - { 
+    - music : [Pink Floyd, Yoon Sang, Sugar Babe, ...]
+    - movie : [Love Letter, One Day, Brazil, Star Wars, ...]
+  - }
 
 <!--
 **jeonghoonkang/jeonghoonkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
