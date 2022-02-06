@@ -1,10 +1,16 @@
 ### Welcome to the next tier of computing 👋
 - If you like some of these below ~, Just send me a msg !
-  - { 
+  - { likelist :
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, ...]
     - movie : [Love Letter, One Day, Brazil, Star Wars, ...]
+    - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, ...]
   - }
-
+  - { work :
+    - software : [TinyOS, network, operating system, IoT, Big data, Ubuntu... ]
+    - mach : [iMac, MBP, Logitech, ...] 
+    - happy with : [github, vs-code, vim, python, docker, db, ...]
+  - }  
+  
 <!--
 **jeonghoonkang/jeonghoonkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
