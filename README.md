@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to the next tier of computing 👋
+- If you like Pink Floyd, Yoon Sang, Sugar Babe.... Just send msg !
 
 <!--
 **jeonghoonkang/jeonghoonkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
