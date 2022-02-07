@@ -1,5 +1,5 @@
 ### Welcome to the next tier of computing 👋
-- If you like some of the below, let me know !
+- I like the below !
   - { like :
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim, ...]
     - movie & series : [Love Letter, One Day, Brazil, Star Wars, 500 days ~, Paris can wait, Little Romance, Wonder Years, ...]
