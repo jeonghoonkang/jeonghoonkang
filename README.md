@@ -3,7 +3,7 @@
   - { like :
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim, ...]
     - movie & series : [Love Letter, One Day, Brazil, Star Wars, 500 days ~, Paris can wait, Little Romance, Wonder Years, ...]
-    - friend : [Charlie Brown, Sally, Snoopy, 3PO, R2D2, ...]
+    - friend : [Charlie Brown, Sally, Snoopy, Mumin, 3PO, R2D2, ...]
     - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli, Blue Bottle, ...]
   - }
   - { work :
