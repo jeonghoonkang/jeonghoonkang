@@ -10,7 +10,7 @@
     - software : [TinyOS, network, operating system, IoT, Big data, Analytics, Machine Learning, ... ]
     - mach : [iMac, MBP, Logitech, ...] 
     - happy with : [RaspberryPi, github, python, vs-code, vim, docker, DB, Tesla, Hue, Ubuntu, Coupang, iPhone, Bose, Spotify, ...]
-    - dreaming to be : [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food or more high-end grocery store, ...]
+    - dreaming to be at: [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food or more high-end grocery store, ...]
   - }  
   
 <!--
