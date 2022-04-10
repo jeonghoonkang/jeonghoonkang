@@ -1,5 +1,5 @@
 ### Welcome to the next tier of computing 👋
-#### 🇺🇦 Please support Ukraine, with a little help :pray: , Click https://belleandsebastian.ffm.to/itsay
+#### 🇺🇦 Please support Ukraine, with a little help :pray: , Click [https://belleandsebastian.ffm.to/itsay]
 
 - I like the below !
   - { like :
