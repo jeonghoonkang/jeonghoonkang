@@ -1,4 +1,6 @@
 ### Welcome to the next tier of computing 👋
+## Please support Ukraine, with a little help :pray: , Click https://belleandsebastian.ffm.to/itsay
+
 - I like the below !
   - { like :
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim, ...]
@@ -12,9 +14,6 @@
     - happy with : [RaspberryPi, github, python, vs-code, vim, docker, DB, Tesla, Hue, Ubuntu, Coupang, iPhone, Bose, Spotify, ...]
     - dreaming to be at: [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food or upper high-end grocery store, ...]
   - }  
-
-Please Support Ukraine, a little help :pray:
-https://belleandsebastian.ffm.to/itsay
 
 <!--
 **jeonghoonkang/jeonghoonkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
