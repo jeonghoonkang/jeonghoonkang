@@ -4,7 +4,7 @@
 - I like the below !
   - { like :
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim, ...]
-    - movie & series : [Love Letter, One Day, Brazil, Star Wars, 500 days ~, Paris can wait, Little Romance, Wonder Years, Decision To Leave, Late Autumn ...]
+    - movie & series : [Love Letter, One Day, Decision to Leave, Brazil, Star Wars, 500 days ~, Paris can wait, Little Romance, Wonder Years, Decision To Leave, Late Autumn ...]
     - friend : [Charlie Brown, Sally, Snoopy, Mumin, 3PO, R2D2, ...]
     - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli, Blue Bottle, ...]
   - }
