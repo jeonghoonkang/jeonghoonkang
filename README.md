@@ -2,13 +2,13 @@
 #### 🇺🇦 Please support Ukraine, with a little help :pray: , Click [https://belleandsebastian.ffm.to/itsay]
 
 - I like the below,
-  - { like :
+  - { I like :
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim, ...]
     - movie & series : [Love Letter, One Day, Decision to Leave, Brazil, Star Wars, 500 days of summer, Paris can wait, Little Romance, Wonder Years, Decision To Leave, Late Autumn ...]
     - friend : [Charlie Brown, Sally, Snoopy, Mumin, 3PO, R2D2, ...]
     - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli, Blue Bottle, ...]
   - }
-  - { work :
+  - { I work for :
     - software : [TinyOS, network, operating system, IoT, Big data, Analytics, Machine Learning, ... ]
     - mach : [iMac, MBP, Logitech, ...] 
     - happy with : [RaspberryPi, github, python, vs-code, vim, docker, DB, Tesla, Hue, Ubuntu, Coupang, iPhone, Bose, Spotify, ...]
