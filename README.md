@@ -1,4 +1,4 @@
-### Welcome to the next tier of data and AI computing 👋
+### Welcome to the next tier of computing 👋
 #### 🇺🇦 Please support Ukraine, with a little help :pray: , Click [https://belleandsebastian.ffm.to/itsay]
 
 - I like the belows,
