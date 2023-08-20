@@ -11,7 +11,7 @@
     - software : [TinyOS, network, operating system, IoT, Big data, Analytics, Machine Learning, ... ]
     - mach : [iMac, MBP, Logitech, ...] 
     - happy with : [RaspberryPi, github, python, vs-code, vim, docker, DB, Tesla, Hue, Ubuntu, Coupang, iPhone, Bose, Spotify, ...]
-    - dreaming place to be at: [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food or upper high-end grocery store, ...]}  
+    - dreaming place to be at: [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food and high-end grocery store, ...]}  
 
 <!--
 **jeonghoonkang/jeonghoonkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
