@@ -1,7 +1,7 @@
 ### Welcome to the next tier of computing 👋
 #### 🇺🇦 Please support Ukraine, with a little help :pray: , Click [https://belleandsebastian.ffm.to/itsay]
 
-- I like the belows, 
+- I like the belows,  
   - { I like : 
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim, Yumi Arai, ZARD...]
     - movie & series : [Love Letter, One Day, Decision to Leave, Brazil, Star Wars, 500 days of summer, Paris can wait, Little Romance, Wonder Years, Decision To Leave, Late Autumn ...]
