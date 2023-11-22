@@ -1,7 +1,7 @@
 ### Welcome to the next tier of computing which supports free personal server
 #### Please support Ukraine, with :pray: , [https://belleandsebastian.ffm.to/itsay]
 
-- I like the belows,
+- I like the below,
   - { I like :
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim, Yumi Arai, ZARD, KIRINJI...]
     - movie & TV series : [Love Letter, One Day, Decision to Leave, Brazil, Star Wars, 500 days of summer, Paris can wait, Little Romance, Wonder Years, Late Autumn ...]
