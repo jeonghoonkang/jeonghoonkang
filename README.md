@@ -7,6 +7,7 @@
     - movie & TV series : [Love Letter, One Day, Decision to Leave, Brazil, Star Wars, 500 days of summer, Paris can wait, Little Romance, Wonder Years, Late Autumn ...]
     - friend : [Charlie Brown, Sally, Totoro, Calcifer, Snoopy, Mumin, 3PO, R2D2, ..]
     - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli, Blue Bottle, ...] }
+
   - { I work for : 
     - software : [TinyOS, network, operating system, IoT, Big data, Analytics, Machine Learning, ... ]
     - mach : [iMac, MBP, Logitech, ...] 
