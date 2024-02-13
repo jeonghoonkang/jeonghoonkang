@@ -1,6 +1,6 @@
 ### Welcome to the next tier of computing which supports free and efficient personal server
 #### Please support Ukraine, with :pray: , [https://belleandsebastian.ffm.to/itsay]
- 
+
 - I like the below,
   - { I like :
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim, Yumi Arai, ZARD, KIRINJI...]
