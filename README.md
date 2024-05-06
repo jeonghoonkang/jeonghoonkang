@@ -1,4 +1,4 @@
-### Welcome to the next tier of computing which supports free and efficient personal server
+### Welcome to the next tier of computing which gives free and efficient personal cloud
 #### Please support Ukraine, with :pray: , [https://belleandsebastian.ffm.to/itsay]
  
 - I like things which is below ,
