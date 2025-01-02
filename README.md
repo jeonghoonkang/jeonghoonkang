@@ -1,5 +1,5 @@
 
-### Welcome to the the next tier of computing which provides free and efficient personal cloud
+### Welcome to the the next tier of computing system which provides efficient personal AI for free
 #### Please support Ukraine, with :pray: , [https://belleandsebastian.ffm.to/itsay]
 
 - I love belows ,
