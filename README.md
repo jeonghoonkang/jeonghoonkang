@@ -7,13 +7,13 @@
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim, Yumi Arai, ZARD, KIRINJI...]
     - movie & TV series : [Love Letter, One Day, Decision to Leave, Brazil, Star Wars, 500 days of summer, Paris can wait, Little Romance, Wonder Years, Late Autumn ...]
     - friend : [Charlie Brown, Sally, Totoro, Calcifer, Snoopy, Mumin, 3PO, R2D2, ..]
-    - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli, Blue Bottle, ...] }
+    - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli, Blue Bottle, ...]
+    - happy with : [RaspberryPi, Github, Python, VS-code, Vim, Docker, DB, Tesla, Hue, Ubuntu, Coupang, iPhone, Bose, Spotify, ...]
+    - places: [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food and high-end grocery store, ...]}  
 
   - { I work : 
     - software : [Foundation Models, TinyOS, network, operating system, Streamlit, IoT, Big data, Analytics, Machine Learning, Deep Learning ... ]
-    - mach : [iMac, MBP, Logitech, ...] 
-    - happy with : [RaspberryPi, github, python, vs-code, vim, docker, DB, Tesla, Hue, Ubuntu, Coupang, iPhone, Bose, Spotify, ...]
-    - places: [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food and high-end grocery store, ...]}  
+    - mach : [iMac, MBP, Logitech, ...] }  
 
 <!--  
 **jeonghoonkang/jeonghoonkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
