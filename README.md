@@ -1,5 +1,5 @@
 
-### Welcome to the the next tier of computing system which provides efficient personal AI for free
+### Welcome to the the next tier of computing system which provides efficient AI for free
 #### Please support Ukraine, with :pray: , [https://belleandsebastian.ffm.to/itsay]
 
 - I love belows ,
@@ -10,7 +10,7 @@
     - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli, Blue Bottle, ...] }
 
   - { I work : 
-    - software : [TinyOS, network, operating system, Streamlit, IoT, Big data, Analytics, Machine Learning, Deep Learning ... ]
+    - software : [Foundation Models, TinyOS, network, operating system, Streamlit, IoT, Big data, Analytics, Machine Learning, Deep Learning ... ]
     - mach : [iMac, MBP, Logitech, ...] 
     - happy with : [RaspberryPi, github, python, vs-code, vim, docker, DB, Tesla, Hue, Ubuntu, Coupang, iPhone, Bose, Spotify, ...]
     - places: [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food and high-end grocery store, ...]}  
