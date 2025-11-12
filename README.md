@@ -3,7 +3,7 @@
 #### Please support Ukraine, with :pray: , [https://belleandsebastian.ffm.to/itsay]
 
 - I love belows ,
-  - { I like :
+  - { I like : 
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim, Yumi Arai, ZARD, KIRINJI...]
     - movie & TV series : [Love Letter, One Day, Decision to Leave, Brazil, Star Wars, 500 days of summer, Paris can wait, Little Romance, Wonder Years, Late Autumn ...]
     - friend : [Charlie Brown, Sally, Totoro, Calcifer, Snoopy, Mumin, 3PO, R2D2, ..]
