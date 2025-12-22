@@ -1,5 +1,5 @@
 
-### Welcome to the the next tier of computing system which provides efficient AI for free
+### Welcome to the the next tier of computing system which provides AI functions
 #### Please support Ukraine, with :pray: , [https://belleandsebastian.ffm.to/itsay]
 
 - I love belows ,
