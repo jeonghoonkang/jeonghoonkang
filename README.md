@@ -2,6 +2,7 @@
 ### Welcome to the the next tier of computing system which provides AI assistance
 #### Please support Ukraine, with :pray: , [https://belleandsebastian.ffm.to/itsay]
 
+
 - I love belows,
   - { I like : 
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheney, Jobim, Yumi Arai, ZARD, KIRINJI...]
