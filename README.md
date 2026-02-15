@@ -1,4 +1,4 @@
-### Welcome to the the next tier of computing system which provides intelligent assistance
+### Welcome to the the next tier of computing which provides intelligent assistance
 #### Please support Ukraine, with :pray: , [https://belleandsebastian.ffm.to/itsay]
 
 - I love belows and mor,
