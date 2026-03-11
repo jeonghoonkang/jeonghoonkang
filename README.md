@@ -13,7 +13,7 @@
     - }  
 
   - { I work : 
-    - software : [Foundation Models, TinyOS, network, operating system, Streamlit, IoT, Big data, Analytics, Machine Learning, Deep Learning ... ]
+    - software : [Coding Agent, Foundation Models, GPUs, TinyOS, Operating system, Streamlit, IoT, Big data, Analytics, Machine Learning, Deep Learning ... ]
     - mach : [iMac, MBP, Logitech, ...] }  
 
 
