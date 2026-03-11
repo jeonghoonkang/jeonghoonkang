@@ -8,7 +8,9 @@
     - friend : [Charlie Brown, Sally, Totoro, Calcifer, Snoopy, Mumin, 3PO, R2D2, ..]
     - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli, Blue Bottle, ...]
     - happy with : [RaspberryPi, Github, Python, VS-code, Vim, Docker, DB, Tesla, Hue, Ubuntu, Coupang, iPhone, Bose, Spotify, ...]
-    - places: [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food and high-end grocery store, ...]}  
+    - places: [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food and high-end grocery store, ...]
+    - Audio : [Tesla MYL 2 amp system, Bose Wi-Fi]
+    - }  
 
   - { I work : 
     - software : [Foundation Models, TinyOS, network, operating system, Streamlit, IoT, Big data, Analytics, Machine Learning, Deep Learning ... ]
