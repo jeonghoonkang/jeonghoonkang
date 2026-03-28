@@ -16,7 +16,6 @@
     - software : [Coding Agent, Foundation Models, GPUs, TinyOS, Operating system, Streamlit, IoT, Big data, Analytics, Machine Learning, Deep Learning ... ]
     - mach : [iMac, MBP, Logitech, ...] }  
 
-
 <!--  
 **jeonghoonkang/jeonghoonkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: 
