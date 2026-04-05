@@ -9,8 +9,7 @@
     - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli, Blue Bottle, ...]
     - happy with : [RaspberryPi, Github, Python, VS-code, Vim, Docker, DB, Tesla, Hue, Ubuntu, Coupang, iPhone, Bose, Spotify, ...]
     - places: [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food and high-end grocery store, ...]
-    - Audio : [Tesla MYL 2 amp system, Bose Wi-Fi, iMac 27]
-    - }  
+    - Audio Device : [Tesla MYL 2 amp system, Bose Wi-Fi, iMac 27] }  
 
   - { I work : 
     - software : [Coding Agent, Foundation Models, GPUs, TinyOS, Operating system, Streamlit, IoT, Big data, Analytics, Machine Learning, Deep Learning ... ]
