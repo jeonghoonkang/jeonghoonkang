@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 https://dillinger.io/
 -->
 
-## Welcome to the the next tier of computing which provides more kind, Komorebi feeling
+## Welcome to the the next tier of computing which provides more kind, komorebi feeling
 
 
 ### 1. 인류의 발전과 함께한 도구의 진화
