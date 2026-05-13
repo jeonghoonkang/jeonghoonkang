@@ -13,7 +13,12 @@
 
   - { I work : 
     - software : [Coding Agent, Foundation Models, GPUs, TinyOS, Operating system, Streamlit, IoT, Big data, Analytics, Machine Learning, Deep Learning ... ]
-    - mach : [iMac, MBP, Logitech, ...] }  
+    - mach : [iMac, MBP, Logitech, ...] }
+
+  - { I miss :
+    - past time : [When I am teen and around 20s, every past moment with my family]
+    - feeling when I watched this : [ [단막 드라마 풍경](https://youtu.be/-BmmVFQRShs?si=zWJc84PrkycnK7IF), 케빈은12살, 운전석에서 보이던 이른여름 해진 저녁 불켜진 서울행 경춘선 기차와 개구리소리   ]
+    - }
 
 <!--  
 **jeonghoonkang/jeonghoonkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
