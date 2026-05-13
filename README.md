@@ -1,4 +1,4 @@
-# My Life for all my and our lovings
+# My Life for all my (and our) lovings
 #### Please support Ukraine, with :pray: , [https://belleandsebastian.ffm.to/itsay]
 
 - I love belows ,
