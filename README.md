@@ -32,10 +32,11 @@ https://dillinger.io/
 ### Welcome to the the next tier of computing which provides more kind, Komorebi feeling
 
 1. 도구의 진화: 신체의 확장(Physical)에서 지능의 대행(Agentic)으로
-인류는 수만 년간 도구를 통해 신체적 한계를 극복해 왔습니다. 돌도끼가 악력을, 증기기관이 근력을 대신했다면, Foundation AI + Tool Calling + MCP(Model Context Protocol)의 등장은 도구의 개념을 '수동적 객체'에서 '능동적 주체'로 격상시켰습니다.
-- Foundation AI (두뇌): 방대한 지식을 보유한 핵심 엔진.
-- Tool Calling (손과 발): 지능이 외부 세계에 물리적/디지털적 영향을 미칠 수 있는 메커니즘.
-- MCP (신경망 표준): 서로 다른 데이터 소스와 도구들을 표준화된 방식으로 연결하여, 지능이 파편화된 정보를 막힘없이 호출할 수 있게 하는 규약.
+- 인류는 수만 년간 도구를 통해 신체적 한계를 극복해 왔습니다. 돌도끼가 악력을, 증기기관이 근력을 대신했다면
+- Foundation AI + Tool Calling + MCP(Model Context Protocol)의 등장은 도구의 개념을 '수동적 객체'에서 '능동적 주체'로 격상시켰습니다.
+-   Foundation AI (두뇌): 방대한 지식을 보유한 핵심 엔진
+  - Tool Calling (손과 발): 지능이 외부 세계에 물리적/디지털적 영향을 미칠 수 있는 메커니즘
+-   MCP (신경망 표준): 서로 다른 데이터 소스와 도구들을 표준화된 방식으로 연결하여, 지능이 파편화된 정보를 막힘없이 호출
   이런 도구가 단순히 인간의 명령을 수행하는 것을 넘어, 스스로 상황을 판단하고 필요한 도구를 선택해 실행하는 '에이전틱(Agentic) 도구'의 탄생을 의미합니다.
 
 2. Present Perfect Snapshot: 인류 문명의 완결된 요약본
