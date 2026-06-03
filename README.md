@@ -5,7 +5,7 @@
   - { I really like : 
     - music : [Pink Floyd, Yoon Sang, Sugar Babe, Il Volo, Latte e Miele, Beatles, Pat Matheny, Jobim, Yumi Arai, ZARD, KIRINJI, Jim Hall, Al Di Meola...]
     - movie & TV series : [Love Letter, One Day, Decision to Leave, Brazil, Star Wars, 500 days of summer, Paris can wait, Little Romance, Wonder Years, Late Autumn, Drive My Car, Christmas in August(korean movie) ...]
-    - friend : [Charlie Brown, Sally, Totoro, Calcifer, Snoopy, Mumin, 3PO, R2D2, ..]
+    - friend : [Charlie Brown, Sally, Totoro, Calcifer, Snoopy, Mumin, 3PO, R2D2, Yoshitomo Nara's little girl ..]
     - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli, Blue Bottle, ...]
     - happy with : [RaspberryPi, Github, Python, VS-code, Vim, Docker, DB, Tesla, Hue, Ubuntu, iPhone, Spotify, Codex, ...]
     - places: [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food and high-end grocery store, ...]
