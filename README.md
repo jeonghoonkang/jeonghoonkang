@@ -16,7 +16,7 @@
     - mach : [iMac, MBP, Logitech, ...] }
 
   - { I miss :
-    - past time : [When I am teen and around 20s, every past moment with my family]
+    - past time : [When I was teen and around 20s, every past moment with my family]
     - feeling when I watched the scenes : [ [(단막드라마) 풍경](https://youtu.be/-BmmVFQRShs?si=zWJc84PrkycnK7IF), 케빈은12살 ] }
 
 <!--  
