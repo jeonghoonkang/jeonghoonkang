@@ -37,7 +37,7 @@ https://dillinger.io/
 
 
 ### 1. 인류의 발전과 함께한 도구의 진화
-- 신체의 확장(Physical)에서 지능의 대행(Agentic)으로
+- 신체의 확장(Physical)과 지능의 대행(Agentic)으로
 - 인류는 수만 년간 도구를 통해 신체적 한계를 극복해 왔습니다. 돌도끼가 악력을, 증기기관이 근력을 대신했다면
 - Foundation AI + Tool Calling + MCP(Model Context Protocol)의 등장은 도구의 개념을 '수동적 객체'에서 '능동적 주체'로 격상되었습니다
   - Foundation AI (두뇌): 방대한 지식을 보유한 핵심 엔진
