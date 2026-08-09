@@ -12,7 +12,7 @@
     - Audio Device : [Tesla MYL 2-amp audio system, Bose Wi-Fi Speaker, iMac 27] }  
 
   - { I work : 
-    - software : [Coding Agent, Foundation Models, GPUs, TinyOS, Operating system, Streamlit, IoT, Big data, Analytics, Machine Learning, Deep Learning ... ]
+    - software : [Coding Agent, Agent Application on Foundation Models, GPUs, TinyOS, Operating system, Streamlit, IoT, Big data, Analytics, Machine Learning, Deep Learning ... ]
     - mach : [iMac, MBP, Logitech, ...] }
 
   - { I miss :
