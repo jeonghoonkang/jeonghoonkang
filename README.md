@@ -73,3 +73,30 @@ https://dillinger.io/
 
 ###### AI, Software, Agent 기술을 개발하며, 떠오른 생각들을 Gemini의 도움을 받아 정리했습니다 (As of 2026.5.13)
 
+
+## Over the AI-enabled Learning Model
+
+### 1. AI 모델의 서비스 완성은 LLM을 통해 증명
+- coding agent의 성공적 시장 안착과 확대
+- 오히려 두려움의 대상이 되고 있는 현재 (2026.10)
+### 2. 코딩 에이전트는 개발의 자유도와 기능의 상승을 계속 유지할 것이고, Software는 이런 개발 효율성의 DNA를 그대로 이어받게 될 것임
+- coding agent의 빠른 코딩, 검증, 실행가능 하도록 변화하는 기술
+- 개발자의 의도를 정확하게, 또 그리고 그를 넘어서는 over the 인간 개발 능력에 해당하는 지능 수준의 agent 지능 기술은 응용 소프트웨어에도 적용될 것임
+### 3. Software들의 기술적 변화 예측
+- Cloud Native 시대에 Kubernetes가 컨테이너와 컴퓨팅 자원의 Control Plane 역할을 맡아 시장을 지배했던 것처럼,
+- AI Native 시대에는 ‘소프트웨어 Capability와 Intent’를 관리하는 Agent disccusiong Plane이 핵심 기반 기술로 변화할 것으로 예상
+#### 상세구조 예상
+- Capability Graph (기능 그래프 데이터 구조)
+  - 코드가 아닌 ‘소프트웨어가 제공하는 기능/능력(Capability)’ 단위로 노드(Node)와 엣지(Edge)를 구성
+  - 복잡한 모듈 간 기능적 연결 및 대안 경로(Fallback Path)를 그래프 형태로 런타임에 유지하는 구조
+- Semantic Meta-code (상태·권한·의존성 매핑)
+  - 단순히 코드를 서술하는 것이 아니라, 실행 시점의 시스템 상태(State), 보안/접근 권한(Permission), 런타임 의존성(Dependency)을 지능적으로 내포하는 메타 데이터 구조
+- LLM 기반 실행 구성 결정 (Intent-driven Decision)
+  - 사용자의 자연어 Intent 또는 시스템 Event 발생 시, LLM이 Capability Graph와 Semantic Meta-code를 참조하여,
+  - 최적의 실행 그래프/파이프라인(DAG)을 결정(Planner/Orchestrator)하는 프로세스
+- Runtime 조합 및 전환 (Dynamic Composition & Hot-Switching)
+  - 정적으로 컴파일되거나 빌드된 애플리케이션이 아니라, 런타임 환경에서 필요한 모듈/기능을 동적으로 연결(Linking) 및 가상화(Virtualization)하여 무중단 전환
+- 자동 검증 및 Rollback (Self-Correction / Verification)
+  - 생성/조합된 소프트웨어 구성이 의도대로 동작하는지 실행 직후 및 실행 중에 자동 검증하고, 오류/보안 위반 발생 시 이전의 안정적인 Capability 노드로 즉시 Rollback하는 안전성 런타임
+- Generative / Adaptive UI (동적 인터페이스 생성)
+  - 동적으로 조립된 백엔드/런타임 Capability에 대응하여, 사용자가 이를 제어/확인할 수 있는 UI/UX 요소까지 런타임에 실시간으로 생성 및 적응(Adaptation)시키는 통합 인터페이스  
