@@ -74,7 +74,7 @@ https://dillinger.io/
 ###### AI, Software, Agent 기술을 개발하며, 떠오른 생각들을 Gemini의 도움을 받아 정리했습니다 (As of 2026.5.13)
 
 
-## Over the AI-enabled Learning Model
+## to THE software like almost smart human, back-end supporting by the AI learning model
 
 ### 1. AI 모델의 서비스 완성은 LLM을 통해 증명
 - coding agent의 성공적 시장 안착과 확대
