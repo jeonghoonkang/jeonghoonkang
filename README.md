@@ -77,6 +77,7 @@ https://dillinger.io/
 
 
 ## to THE software like almost smart human, back-end supporting by the AI learning model
+- 코딩 에이전트가 개발자의 개발 속도와 품질을 끌어올린 메커니즘(속도, 검증, 자율 피드백)이 이제 응용 소프트웨어 자체에 내장되어, 소프트웨어가 스스로 상태를 모니터링하고 기능을 확장하는 주체가 될것으로 예상됨
 
 ### 1. AI 모델의 서비스 완성은 LLM을 통해 증명
 - coding agent의 성공적 시장 안착과 확대
