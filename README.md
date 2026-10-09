@@ -20,7 +20,7 @@
     - the feelings when I watched the scenes : [ [(단막드라마) 풍경](https://tv.apple.com/kr/episode/%E1%84%91%E1%85%AE%E1%86%BC%E1%84%80%E1%85%A7%E1%86%BC/umc.cmc.6gs89b17xm6ovg9qh9i4q78am?showId=umc.cmc.ctlgppvomv32mikjs4yklg3v), 케빈은12살 ]
     - In Loving Memory of My Mother
       - Always loved, never forgotten, forever missed... until we meet again, Rest in Peace, Mom
-      - 1945. 01. 28 - 2026. 10. 06
+      - 1945.01.28 ~ 2026.10.06
     }
 
 <!--  
