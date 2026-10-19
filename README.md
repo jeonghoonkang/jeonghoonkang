@@ -107,7 +107,7 @@ https://dillinger.io/
   - Kubernetes는 물리적/가상화된 하드웨어 자원 위에서 컨테이너(Container)의 배포, 오토스케일링, 로드밸런싱을 자율 조율하는 ‘컴퓨팅 자원의 Control Plane’을 완성도 높게 지원하여 클라우드 주도권을 확보했습니다
 - AI Native 시대 (Capability & Intent Control)
   - 차세대 소프트웨어는 서버 자원이 아닌 소프트웨어 자체의 기능(Capability)과 사용자의 목적(Intent)을 관리해야 합니다
-  - 이에 따라 애플리케이션 내·외부의 지능형 에이전트들이 실시간으로 대화하고 협상하며 실행 경로를 결정하는 ‘Agent Discussion Plane(지능형 문제해결 평면)’이 핵심 기반 기술 표준이 될 가능성이 높스빈다
+  - 이에 따라 애플리케이션 내·외부의 지능형 에이전트들이 실시간으로 대화하고 협상하며 실행 경로를 결정하는 ‘Agent Discussion Plane(지능형 문제해결 평면)’이 핵심 기반 기술 표준이 될 가능성이 높습니다
 - Agent Discussion Plane의 핵심 메커니즘
   - 의도(Intent) 기반 오케스트레이션으로 기존 소프트웨어가 "A 함수 실행 후 B 함수 호출" 형태의 정적 파이프라인이었다면,
   - Discussion Plane은 사용자의 자연어 Intent나 시스템 이벤트를 실시간으로 해석하여 메타 인지가 가능합니다
