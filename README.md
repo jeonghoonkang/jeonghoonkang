@@ -8,7 +8,7 @@
     - friend : [Charlie Brown, Sally, Totoro, Calcifer, Snoopy, Mumin, 3PO, R2D2, Yoshitomo Nara's little girl ..]
     - food : [Pyeongyang Cold Buckwheat Noodles, Haeju Cold Buckwheat Noodles, Tteokbokki, KATZ's deli, Blue Bottle, ...]
     - happy with : [RaspberryPi, Github, Python, Gemma4, VS-code, Vim, Docker, DB, Tesla, Hue, Ubuntu, iPhone, Spotify, Codex, ...]
-    - places: [Carmel, Some Beach of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food and high-end grocery store, ...]
+    - places: [Carmel, Some Beaches of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food and high-end grocery store, ...]
     - Audio Device : [Tesla MYL 2-amp audio system, Bose Wi-Fi Speaker, iMac 27] } 
 
   - { I work : 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 https://dillinger.io/
 -->
 
-## Welcome to the the next tier of computing which provides more kind, komorebi feeling
+## Welcome to the next tier of computing which provides more kind, komorebi feeling
 
 
 ### 1. 인류의 발전과 함께한 도구의 진화
