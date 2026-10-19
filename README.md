@@ -11,11 +11,11 @@
     - places: [Carmel, Some Beaches of West, SOHO in NY, Positano, Singapore, Jeju, Whole Food and high-end grocery store, ...]
     - Audio Device : [Tesla MYL 2-amp audio system, Bose Wi-Fi Speaker, iMac 27] } 
 
-  - { I work : 
+  - { What I work on : 
     - software : [Coding Agent, Agent Application on Foundation Models, GPUs, TinyOS, Operating System, Streamlit, IoT, Big data, Analytics, Machine Learning, Deep Learning ... ]
     - mach : [iMac, MBP, Logitech, ...] }
 
-  - { I miss :
+  - { What I miss :
     - past time : [When I was teen and around 20s, every past moment with my family]
     - the feelings when I watched the scenes : [ [(단막드라마) 풍경](https://tv.apple.com/kr/episode/%E1%84%91%E1%85%AE%E1%86%BC%E1%84%80%E1%85%A7%E1%86%BC/umc.cmc.6gs89b17xm6ovg9qh9i4q78am?showId=umc.cmc.ctlgppvomv32mikjs4yklg3v), 케빈은12살 ]
     - In Loving Memory of My Mother
