@@ -102,7 +102,7 @@ https://dillinger.io/
   - 앞으로는 개발 단계에서 검증된 에이전트의 핵심 DNA — "의도를 파악하고, 스스로 구성하며, 실행 결과를 테스트하고, 실패 시 우회(Fallback)하는 자율성" — 이 응용 소프트웨어에 전이될 것입니다
   - 응용 소프트웨어는 런타임 환경에서 발생하는 예외 상황이나 새로운 사용자의 요구사항, 의도에 대해서도 최대한의 실행결과를 이끌어내는 '사용지의 업무 해결에 도움을 주는 스마트 소프트웨어'로 진화할 것으로 판단됩니다
 
-### 3. 패러다임의 대전환: Cloud Native에서 AI Native로
+### 3. 패러다임의 전환: Cloud Native에서 AI Native로
 - Cloud Native 시대 (Infrastructure & Resource Control)
   - Kubernetes는 물리적/가상화된 하드웨어 자원 위에서 컨테이너(Container)의 배포, 오토스케일링, 로드밸런싱을 자율 조율하는 ‘컴퓨팅 자원의 Control Plane’을 완성도 높게 지원하여 클라우드 주도권을 확보했습니다
 - AI Native 시대 (Capability & Intent Control)
